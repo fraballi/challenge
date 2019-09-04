@@ -1,0 +1,15 @@
+Hi there, Challengers!
+
+- The program arranges fights between two characters.
+- A character gains experience and other abilities during fights and exploration activities.
+- A match can be saved and restored later
+- 'q - Quit' is not an option !!!
+
+                                   ...
+                                  .....
+    }                          [[.[].[].]]
+====> Let's FIGHT! ==>          88888888
+    }                        [-( 9)  9) )-]
+                                8  (   8
+                                 8 -= 8
+                                   88
